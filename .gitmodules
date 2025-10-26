@@ -1,3 +1,6 @@
 [submodule "RailFenceCipher"]
 	path = RailFenceCipher
 	url = https://github.com/lil-mixail/RailFenceCipher.git
+[submodule "AES"]
+	path = AES
+	url = https://github.com/lil-mixail/AES-Encrypt-Tool.git
