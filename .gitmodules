@@ -4,3 +4,6 @@
 [submodule "AES"]
 	path = AES
 	url = https://github.com/lil-mixail/AES-Encrypt-Tool.git
+[submodule "RSA"]
+	path = RSA
+	url = https://github.com/lil-mixail/RSA-Sign-Tool.git
